@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+}
+p{
+    color:steelblue;
+    font-size: 20px;
+    font-weight: normal;/*bold*/
+    font-family: sans-serif;
+    line-height: 1.5;
+    text-align: justify;
+    text-decoration: none;
+    text-transform: none;
+    width: 1000px;
+    float: left;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid red;
+}
+a{
+    text-decoration: none;
+}
+.khubaoton{
+    background-color: aquamarine;
+}
